@@ -1,0 +1,80 @@
+body {
+    background-image: url("img/background.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 100%;
+    font-family: Questrial, Verdana;
+}
+
+.main {
+    padding: 20px;
+}
+
+.black {
+    margin: auto;
+    padding: 80px 100px;
+    width: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.title {
+    padding: 10px 0px 5px;
+    color: #00dd00;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+
+.buttondiv {
+    padding: 10px 10px;
+    background: #00dd00;
+    text-align: center;
+}
+
+.monopattinodiv {
+    padding: 10px 0px 10px;
+}
+
+.checkboxdiv {
+    padding: 5px 0px 3px;
+    color: white;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.monopattino {
+    padding: 3px 0px;
+    font-weight: normal;
+    font-size: 1em;
+    color: white;
+}
+
+.carica1 {
+    background: #f5b453;
+    border-radius: 5px;
+    height: 2em;
+    width: 40%;
+}
+
+.carica2 {
+    background: #1ec31e;
+    border-radius: 5px;
+    height: 2em;
+    width: 70%;
+}
+
+.carica3 {
+    background: #be4141;
+    border-radius: 5px;
+    height: 2em;
+    width: 20%;
+}
